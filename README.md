@@ -1,6 +1,6 @@
 # Discount Calculator Android App
 
-![Screenshot of App](discount-calc.png)
+<img src="discount-calc.png" height="500px">
 
 ## Overview
 A practical Android application for calculating discounted prices, ideal for shoppers and retailers. 
